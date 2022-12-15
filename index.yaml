@@ -911,11 +911,11 @@ entries:
       name: QuentinBisson
     name: kube-prometheus-stack
     sources:
-    - https://github.com/prometheus-community/helm-charts
+    - https://github.com/jlmanrique/helm-charts
     - https://github.com/prometheus-operator/kube-prometheus
     type: application
     urls:
-    - https://github.com/prometheus-community/helm-charts/releases/download/kube-prometheus-stack-43.1.0/kube-prometheus-stack-43.1.0.tgz
+    - https://github.com/jlmanrique/helm-charts/releases/download/kube-prometheus-stack-43.1.0/kube-prometheus-stack-43.1.0.tgz
     version: 43.1.0
   - annotations:
       artifacthub.io/links: |
